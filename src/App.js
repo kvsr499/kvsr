@@ -18,6 +18,12 @@ function App() {
           Learn React
         </a>
       </header>
+      <nav>
+        <a>Home</a>
+        <a>contact</a>
+        <a>about</a>
+        <a>address</a>
+      </nav>
     </div>
   );
 }
