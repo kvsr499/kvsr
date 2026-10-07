@@ -17,13 +17,15 @@ function App() {
         >
           Learn React
         </a>
+        <nav>
+          <h2>Navbar Feature</h2>
+          <a>Home</a>
+          <a>About</a>
+          <a>Details</a>
+          <a>Address</a>
+        </nav>
       </header>
-      <nav>
-        <a>Home</a>
-        <a>contact</a>
-        <a>about</a>
-        <a>address</a>
-      </nav>
+      
     </div>
   );
 }
