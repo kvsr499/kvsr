@@ -24,6 +24,10 @@ function App() {
         <a>about</a>
         <a>address</a>
       </nav>
+      <form>
+        <label title='user'>Username: </label>
+        <input type='text' id='user'></input>
+      </form>
     </div>
   );
 }
